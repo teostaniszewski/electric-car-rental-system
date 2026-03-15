@@ -33,5 +33,13 @@ The aim of the project was to create a more reliable and user-friendly booking s
 - No web/mobile version
 - Built with AppJar, so UI customisation is limited
 
+## Compatibility
+
+The project was developed and tested using:
+
+Python 3.11
+
+Later Python versions removed the `imghdr` module used by AppJar, so the project includes a compatibility may not be adapted for new versions.
+
 ## Author
 Teo Staniszewski
