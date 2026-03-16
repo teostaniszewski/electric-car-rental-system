@@ -39,7 +39,7 @@ The project was developed and tested using:
 
 Python 3.11
 
-Later Python versions removed the `imghdr` module used by AppJar, so the project includes a compatibility may not be adapted for new versions.
+Later Python versions removed the `imghdr` module used by AppJar, so the project may not be adapted for new versions.
 
 ## Author
 Teo Staniszewski
